@@ -5,7 +5,7 @@
 
 ## 1. Introduction & Acceptance
 
-Welcome to **Online Tribes** (the "**App**"), a service operated by **OnlineTribes sp. z o.o.** ("**Company**", "**we**", "**our**", "**us**"), registered in Poland, with its registered office at Modlińska 61, 03-199 Warszawa, Poland.
+Welcome to **Online Tribes** (the "**App**"), a service operated by **Damian Jabłoński**, a sole proprietorship (*jednoosobowa działalność gospodarcza*) registered in Poland in the Central Register of Business Activity (CEIDG) ("**Company**", "**we**", "**our**", "**us**"), NIP 5243008010 (EU VAT PL5243008010), REGON 528741561, with its registered place of business at ul. Modlińska 61/106, 03-199 Warszawa, Poland.
 
 These Terms and Conditions ("**Terms**") govern your use of the App. By creating an account, clicking "I accept", or otherwise using the App, you agree to be bound by these Terms and by our [Privacy Policy](https://buddamind.github.io/privacy_police_online_tribes/privacy-police-en.html). If you do not agree, do not use the App.
 
@@ -160,4 +160,5 @@ If you downloaded the App from Google Play, equivalent acknowledgments apply wit
 **Support:** marianna@online-tribes.com
 **Legal / DPO:** marianna@online-tribes.com
 **DSA contact:** marianna@online-tribes.com
-**Postal address:** OnlineTribes sp. z o.o., Modlińska 61, 03-199 Warszawa, Poland
+**Postal address:** Damian Jabłoński, ul. Modlińska 61/106, 03-199 Warszawa, Poland
+**Registration:** NIP 5243008010 · EU VAT PL5243008010 · REGON 528741561
