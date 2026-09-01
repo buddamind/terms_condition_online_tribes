@@ -2,7 +2,7 @@
 
 ## 1. Wprowadzenie
 
-Witamy w **Online Tribes** ("my", "nasz", "nas")! Aplikacja jest prowadzona przez **Damiana Jabłońskiego**, prowadzącego jednoosobową działalność gospodarczą wpisaną do CEIDG, NIP 5243008010 (VAT UE PL5243008010), REGON 528741561, z siedzibą przy ul. Modlińskiej 61/106, 03-199 Warszawa, Polska. Korzystając z naszej aplikacji mobilnej ("Aplikacja"), zgadzasz się na przestrzeganie poniższych warunków korzystania ("Warunki"). Prosimy o uważne przeczytanie tych Warunków przed rozpoczęciem korzystania z naszej Aplikacji.
+Witamy w **Online Tribes** ("my", "nasz", "nas")! Aplikacja jest prowadzona przez **Damiana Jabłońskiego**, prowadzącego jednoosobową działalność gospodarczą pod firmą **Damian Jabłoński tribe**, wpisaną do CEIDG, NIP 5243008010 (VAT UE PL5243008010), REGON 528741561, ul. Modlińska 61, lok. 106, 03-199 Warszawa, Polska. Korzystając z naszej aplikacji mobilnej ("Aplikacja"), zgadzasz się na przestrzeganie poniższych warunków korzystania ("Warunki"). Prosimy o uważne przeczytanie tych Warunków przed rozpoczęciem korzystania z naszej Aplikacji.
 
 ## 2. Konto użytkownika
 
@@ -45,5 +45,5 @@ Te Warunki podlegają i będą interpretowane zgodnie z prawem [Twojego kraju/st
 Jeśli masz pytania dotyczące tych Warunków, skontaktuj się z nami pod adresem:
 
 **Email**: marianna@online-tribes.com  
-**Adres**: Damian Jabłoński, ul. Modlińska 61/106, 03-199 Warszawa, Polska  
+**Adres**: Damian Jabłoński tribe, ul. Modlińska 61, lok. 106, 03-199 Warszawa, Polska  
 **Dane rejestrowe**: NIP 5243008010 · VAT UE PL5243008010 · REGON 528741561
